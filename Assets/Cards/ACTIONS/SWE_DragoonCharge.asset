@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74970994d0d79da419fb322af65fc46d, type: 3}
+  m_Name: SWE_DragoonCharge
+  m_EditorClassIdentifier: 
+  cardName: Dragoon Charge
+  nationality: 5
+  cardDescription: Deal 4 damage to enemy cavalry
+  cardTypeSO: {fileID: 11400000, guid: 485c0583cde80c348be1d1dc506ff098, type: 2}
+  cardId: 0
+  cardCost: 4
+  cardUpkeep: 0
+  baseAtt: 0
+  baseDef: -4
+  actAtt: 0
+  actDef: 0
+  xp: 0
+  level: 0
+  specialAbilityList: []
+  cardImage: {fileID: 21300000, guid: 262cd90bb1814d94296cff559c2b77af, type: 3}
+  artAuthor: Juliusz Kossak
+  cardFlag: {fileID: 21300000, guid: 4373c47e631ab0c4eb12d3b2714013ac, type: 3}
+  cardIco: {fileID: 0}
+  owner: {fileID: 0}

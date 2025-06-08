@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74970994d0d79da419fb322af65fc46d, type: 3}
+  m_Name: N_Pistol
+  m_EditorClassIdentifier: 
+  cardName: Pistol
+  nationality: 0
+  cardDescription: +2 Attack. Can be used by cavalry units.
+  cardTypeSO: {fileID: 11400000, guid: 7e426e8408f94954ea724465d03dbcba, type: 2}
+  cardId: 0
+  cardCost: 1
+  cardUpkeep: 0
+  baseAtt: 2
+  baseDef: 0
+  actAtt: 2
+  actDef: 0
+  xp: 0
+  level: 0
+  specialAbilityList: []
+  cardImage: {fileID: 21300000, guid: def6f09db3569dd4eaadc2c254accb14, type: 3}
+  artAuthor: Kris Games
+  cardFlag: {fileID: 0}
+  cardIco: {fileID: 21300000, guid: 845088e7962e46e4ab1e95c843e51177, type: 3}
+  owner: {fileID: 0}

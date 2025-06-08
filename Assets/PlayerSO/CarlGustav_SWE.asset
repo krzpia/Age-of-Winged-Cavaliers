@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43497462ef7f56c4eb59a0729d316860, type: 3}
+  m_Name: CarlGustav_SWE
+  m_EditorClassIdentifier: 
+  playerName: Carl Gustav
+  playerFlag: {fileID: 21300000, guid: 4373c47e631ab0c4eb12d3b2714013ac, type: 3}
+  playerColor:
+    serializedVersion: 2
+    rgba: 4294959305
+  playerSprite: {fileID: 21300000, guid: 977e78723c428ba4bb823da868c600bc, type: 3}
+  playerGoldImage: {fileID: 21300000, guid: 71e34838f181444418c69cc057556cd4, type: 3}
+  playerCoatImage: {fileID: 21300000, guid: 308d8f1324616ce4a9bdcea0147830f6, type: 3}
+  playerDeckImage: {fileID: 21300000, guid: aa59c3627c44d274389f8c3a76078429, type: 3}
+  playerNationality: 5
+  playerAIAgrresivness: 4
+  AICardDeployMinimalFactor: -3
+  AIUnitAttackMinimalFactor: -1
+  startMorale: 20
+  startGold: 0
+  incomeList: 020000000200000003000000040000000500000006000000070000000700000007000000070000000700000007000000
+  startMaxGold: 12
+  startDeck:
+  - {fileID: 11400000, guid: ed77d547ac94a5c4eabf6a09a9362f26, type: 2}
+  - {fileID: 11400000, guid: ed77d547ac94a5c4eabf6a09a9362f26, type: 2}
+  - {fileID: 11400000, guid: ec3a844b2ccf0af4ea65feb2fa429553, type: 2}
+  - {fileID: 11400000, guid: 233b35347661f35408ac1dd89398bfe3, type: 2}
+  - {fileID: 11400000, guid: 233b35347661f35408ac1dd89398bfe3, type: 2}
+  - {fileID: 11400000, guid: ec3a844b2ccf0af4ea65feb2fa429553, type: 2}
+  - {fileID: 11400000, guid: 6b828bdc604124044a1845fabf115e21, type: 2}
+  - {fileID: 11400000, guid: 6b828bdc604124044a1845fabf115e21, type: 2}
+  - {fileID: 11400000, guid: d6a490826a84fad489f5a9f2eb1de20c, type: 2}
+  - {fileID: 11400000, guid: 16d22704302330b49ad2d3961a519bef, type: 2}
+  - {fileID: 11400000, guid: ec3a844b2ccf0af4ea65feb2fa429553, type: 2}
+  - {fileID: 11400000, guid: ec3a844b2ccf0af4ea65feb2fa429553, type: 2}
+  - {fileID: 11400000, guid: ec3a844b2ccf0af4ea65feb2fa429553, type: 2}
+  - {fileID: 11400000, guid: b3c0e82120e3b7145b3266f4d9c9cbb2, type: 2}
+  - {fileID: 11400000, guid: b3c0e82120e3b7145b3266f4d9c9cbb2, type: 2}
+  - {fileID: 11400000, guid: 0e41bc10d062c0e40a936393788150d2, type: 2}
+  - {fileID: 11400000, guid: 0e41bc10d062c0e40a936393788150d2, type: 2}
+  - {fileID: 11400000, guid: 728b469a93bc5024a8cbda986425e582, type: 2}
+  - {fileID: 11400000, guid: 728b469a93bc5024a8cbda986425e582, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74970994d0d79da419fb322af65fc46d, type: 3}
+  m_Name: SWE_DemiCulevrin
+  m_EditorClassIdentifier: 
+  cardName: Demiculevrin
+  nationality: 5
+  cardDescription: Medium ranged siege weapon
+  cardTypeSO: {fileID: 11400000, guid: 56e633109aa9a1f4daac34d458fb469d, type: 2}
+  cardId: 0
+  cardCost: 4
+  cardUpkeep: 1
+  baseAtt: 3
+  baseDef: 2
+  actAtt: 3
+  actDef: 2
+  xp: 0
+  level: 0
+  specialAbilityList: []
+  cardImage: {fileID: 21300000, guid: b76b07e62dd0e2e45aff563770b99466, type: 3}
+  artAuthor: Kris Games
+  cardFlag: {fileID: 21300000, guid: 4373c47e631ab0c4eb12d3b2714013ac, type: 3}
+  cardIco: {fileID: 0}
+  owner: {fileID: 0}

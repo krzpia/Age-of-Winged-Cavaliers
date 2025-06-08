@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74970994d0d79da419fb322af65fc46d, type: 3}
+  m_Name: N_PlateArmor
+  m_EditorClassIdentifier: 
+  cardName: Steel Plate Armor
+  cardNationality: none
+  cardDescription: '+2 Defence. '
+  cardTypeSO: {fileID: 11400000, guid: 8a326a613701bec48a894589a6965079, type: 2}
+  cardId: 0
+  cardCost: 2
+  cardUpkeep: 0
+  baseAtt: 0
+  baseDef: 2
+  actAtt: 0
+  actDef: 2
+  xp: 0
+  level: 0
+  specialAbilityList: []
+  cardImage: {fileID: 21300000, guid: ee83c1e31f0fc7c44966a3d4aa819f0e, type: 3}
+  artAuthor: Kris Games
+  cardFlag: {fileID: 0}
+  cardIco: {fileID: 21300000, guid: 3913479bd0d9e814c9d3eccf43196e2d, type: 3}
+  owner: {fileID: 0}
